@@ -40,7 +40,7 @@ module.exports = {
 };
 ```
 
-# Execution the test
+# Execute the test
 The following scripts will be added into our package.json so that we can run the test.
 ```
 ...
